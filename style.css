@@ -1,0 +1,15 @@
+/*=====================
+Theme Name: WP Theme Development
+Theme URI: #
+Version: 1.0.0
+Author: GM Sadiq
+Author URI: https://greeenorange.github.io/Portfolio-website/
+Text Domain: gmsadiq
+Description: We are learning wordpress theme development, it will be fun.
+Tags: one-column, flexible-header, accessibility-read, custom-colors, custom-menu, custom-logo,
+editor-style, feature-header, accessibility-ready, custom-colors, block-patterns, editor-style, footer-widgets
+=======================*/
+
+body{
+    background: #398b77be;
+}
